@@ -218,7 +218,7 @@ section.contato {
 /* estilo hoteis */
 section.hoteis {
     padding: 150px 0;
-    background-image: url(../images/image-3058.jpeg);
+    background-image: url(../images/IMG_3058.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -366,6 +366,7 @@ footer .top-footer button:hover, .middle-footer button:hover {
     color: #000;
     transition: 0.5s;
 }
+
 
 
 
