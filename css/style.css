@@ -194,12 +194,13 @@ section.contato {
     text-decoration: none;
 }
 
-.contato .icons-contato button i,a {
+.contato .icons-contato button i,
+.contato .icons-contato button a {
     color: #000;
     font-size: 23px;
     font-weight: 500;
-
 }
+
 
 .icons-contato i:hover, .icons-contato button:hover i, .icons-contato i:hover, .icons-contato button:hover p{
     
@@ -365,6 +366,7 @@ footer .top-footer button:hover, .middle-footer button:hover {
     color: #000;
     transition: 0.5s;
 }
+
 
 
 
